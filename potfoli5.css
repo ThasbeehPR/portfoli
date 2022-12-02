@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color: rgb(249, 255, 255);
+}
+
+#dq{
+    color: black;
+    font-family: 'Sono', sans-serif;
+    font-size: 32px;
+}
+
+#menu{
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.555);
+    width: 100%;
+    margin: 0px;
+    top: 0px;
+}
+
+img{
+    height: 500px;
+    width: 700px;
+    
+}
+
+.links{
+    display: inline;
+    padding-right: 30px;
+    
+}
+a{
+    color:white;
+    text-decoration: none;
+
+}
+.links:hover{
+    font-size: 30px;
+}
+#Work a{
+    color: rgb(214, 18, 60);
+
+}
+html{
+    scroll-behavior: smooth;
+}
+#Home{
+    margin-top: 49px;
+    
+}
+#Home img{
+    border-radius: 40%;
+}
+.line{
+    height: 6px;
+    background-color: rgba(0, 0, 0, 0.53)
+}
